@@ -6,9 +6,17 @@
 
 
 ## Import Dataset
-First, import the **Deaths** and **Vaccinated** datasets into Microsoft SQL Server for data exploration.
 
-In the **Deaths** dataset, we will utilize the following columns:
+
+#### Download dataset from Our World in Data Website
+[Download link](https://ourworldindata.org/coronavirus)
+
+#### Note:
+Although this is a single-sheet dataset, I have separated it into two datasets **CovidDeaths** and **CovidVaccinated** because I will need to use a Join query in SQL.
+
+First, import the **CovidDeaths** and **CovidVaccinated** datasets into Microsoft SQL Server for data exploration.
+
+In the **CovidDeaths** dataset, we will utilize the following columns:
 * continent	
 * location
 * date
@@ -18,7 +26,7 @@ In the **Deaths** dataset, we will utilize the following columns:
 * total_deaths
 * population
 
-In the **Vaccinated** dataset, we will utilize the following columns:
+In the **CovidVaccinated** dataset, we will utilize the following columns:
 * continent	
 * location
 * date
@@ -26,8 +34,3 @@ In the **Vaccinated** dataset, we will utilize the following columns:
 * people_vaccinated
 * people_fully_vaccinated
 
-#### you can also download dataset from Our World in Data Website
-[Download link](https://ourworldindata.org/coronavirus)
-
-#### Note:
-Although this is a single-sheet dataset, I have separated it into two datasets because I will need to use a Join query in SQL.
