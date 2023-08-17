@@ -1,7 +1,6 @@
 # Covid19
  
-![Covid Dashboard Image]([https://github.com/Jayagopal-web/Covid19/blob/main/Covid%20Dashboard.png] "Dashboard")
-![Image](Covid Dashboard.png)
+![Covid Dashboard](https://github.com/Jayagopal-web/Covid19/assets/66839291/a9c2fd82-f51c-40cf-9999-2a6033364311)
 
 [Covid19 Dashboard](https://public.tableau.com/app/profile/jayagopal.k/viz/Covid19_16915094975520/Dashboard1)
 
