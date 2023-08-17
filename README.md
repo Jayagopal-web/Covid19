@@ -98,5 +98,4 @@ GROUP BY death.location, death.population
 ORDER BY 1,2
 ```
 
-## Import these excel sheet in visualization tool 
-You can use **Tableau** or **Power BI** 
+#### Import these Excel sheets into a visualization tool such as Tableau or Power BI.
