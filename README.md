@@ -1,6 +1,6 @@
 # Covid19
  
-![Covid Dashboard](https://github.com/Jayagopal-web/Covid19/assets/66839291/a9c2fd82-f51c-40cf-9999-2a6033364311)
+![Dashboard 1](https://github.com/Jayagopal-web/Covid19/assets/66839291/7204c609-e572-465e-86ad-d529df2e4215)
 
 [Covid19 Dashboard](https://public.tableau.com/app/profile/jayagopal.k/viz/Covid19_16915094975520/Dashboard1)
 
